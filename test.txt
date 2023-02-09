@@ -1,0 +1,6 @@
+exam
+paper
+pen
+rubber
+scale
+pencil
